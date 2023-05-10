@@ -1,2 +1,2 @@
-# python-jogo-da-velha
+# python-jogo-velha
  Projetos Python.
